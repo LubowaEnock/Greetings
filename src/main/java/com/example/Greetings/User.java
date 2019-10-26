@@ -1,5 +1,7 @@
 package com.example.Greetings;
 
+import javax.persistence.Entity;
+
 @Entity
 public class User {
 
